@@ -49,10 +49,16 @@ touch README.md
 git commit -a -m "Renamed project"
 ```
 
-### Open project to code
+### Open project to code to change package names
 ```bash
 code .
 ```
 
+search in all files (cmd + shif + f) for "com.example.starter_architecture_flutter_firebase" and relace with "it.horlyck.APPNAME"
+The are in the following directories:
+- android/app/src/debug/AndroidManifest.xml
+- android/app/src/main/AndroidManifest.xml
+- android/app/src/main/kotlin/com/example/starter_architecture_flutter_firebase/MainActivity.kt
+- android/app/src/profile/AndroidManifest.xml
 
 [Original Readme by Andrea](/Andreas-README.md)
