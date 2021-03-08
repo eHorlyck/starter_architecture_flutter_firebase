@@ -1,3 +1,17 @@
+# Getting started
+
+This section describes the steps neede to adapt this project.
+
+## Rename the project and packages
+
+Us the [Rename package](https://pub.dev/packages/rename)
+```bash
+    pub global run rename --bundleId com.onatcipli.networkUpp
+    pub global run rename --appname "Network Upp"
+```
+
+---- From Andreas Repo ---------
+
 # Starter Architecture Demo for Flutter & Firebase Realtime Apps
 
 This is a **reference architecture demo** that can be used as a **starting point** for apps using Flutter & Firebase.
