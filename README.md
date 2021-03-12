@@ -8,7 +8,7 @@ This section describes the steps neede to adapt this project.
 
 Create a new repository here on Github, without any readme.
 ```bash
-git clone --bare https://github.com/eHorlyck/starter_architecture_flutter_firebase.git
+git clone https://github.com/eHorlyck/starter_architecture_flutter_firebase.git
 cd starter_architecture_flutter_firebase
 ```
 
